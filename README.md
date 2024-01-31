@@ -1,7 +1,7 @@
 # Bonjour👋 je m'appelle Hatem
 
 
-## J'ai 21 ans et je suis développeur full-stack en devenir ( ça veut dire spé front end ⚡).
+## J'ai 21 ans et je suis développeur full-stack ⚡
 
 J'aime créer des choses sur Internet. Mon intérêt pour le développement web a commencé en 2017 lorsque j'ai décidé de bidouiller un site avec l'inspecteur (le meilleur ami des développeurs JavaScript 😄).
 
